@@ -24,6 +24,7 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         print("Testing for rebase")
+        print("Second commit for rebase")
     }
     
 
