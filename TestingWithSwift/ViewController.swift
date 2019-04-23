@@ -17,6 +17,7 @@ class ViewController: UIViewController {
 
     override func viewDidAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
+        print("testing for merge")
     }
     
 
